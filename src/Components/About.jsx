@@ -3,7 +3,6 @@ import { Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
 import Slide from "react-reveal/Slide";
 import { Fade } from "react-reveal";
-// import Fade from "react-reveal/Fade";
 
 const About = () => {
 
